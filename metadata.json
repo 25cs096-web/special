@@ -1,0 +1,6 @@
+{
+  "name": "Karthika's Magical Birthday World",
+  "description": "A breathtaking cinematic 12-page interactive birthday wonderland created especially for Karthika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
